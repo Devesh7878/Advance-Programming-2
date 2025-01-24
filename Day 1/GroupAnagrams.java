@@ -20,3 +20,4 @@ public class GroupAnagrams {
         System.out.println("Grouped anagrams: " + result);
     }
 }
+
